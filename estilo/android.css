@@ -101,6 +101,10 @@ main h1{
     color: var(--cor5);
     font-weight: normal;
     font-size: 1.8em;
+    background-image: linear-gradient(to right, var(--cor1), transparent);
+    padding: 4px 7px;
+    border-radius: 5px;
+    font-weight: normal;
 }
 
 main h2{
